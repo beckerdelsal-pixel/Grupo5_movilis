@@ -85,7 +85,7 @@ public class Dueno {
         return cedula;
     }
 
-    // ✅ MÉTODOS ADICIONALES
+    
 
     public String getNombreCompleto() {
         return nombre + " " + apellido;
